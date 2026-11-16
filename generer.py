@@ -1,25 +1,39 @@
 #!/usr/bin/env python3
 """Génère docs/calendrier.ics : 1 à 3 faits par jour, 0 les jours fériés français."""
-import json, random, re, time, urllib.request
+import json, random, re, time, urllib.error, urllib.request
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import quote, urlencode
 
 RACINE = Path(__file__).parent
 P = json.loads((RACINE / "profil.json").read_text(encoding="utf-8"))
-UA = {"User-Agent": "calendrier-perso/1.0 (projet personnel)"}
+UA = {"User-Agent": "calendrier-perso/1.0 (https://github.com/cnbpf295f8-dev/calendrier-perso; usage personnel)"}
+_stats_http = {"echecs": 0}
+_cache_recherche = {}
+_cache_resume = {}
 
 
 def get_json(url):
-    for _ in range(2):
+    for essai in range(3):
         try:
             req = urllib.request.Request(url, headers=UA)
-            with urllib.request.urlopen(req, timeout=20) as r:
+            with urllib.request.urlopen(req, timeout=15) as r:
                 data = json.load(r)
-            time.sleep(0.2)
+            time.sleep(0.3)
             return data
+        except urllib.error.HTTPError as e:
+            if e.code == 404:
+                return None
+            attente = 5 * (essai + 1)
+            if e.code == 429:
+                try:
+                    attente = int(e.headers.get("Retry-After", attente))
+                except Exception:
+                    pass
+            time.sleep(min(attente, 30))
         except Exception:
-            time.sleep(1)
+            time.sleep(2 * (essai + 1))
+    _stats_http["echecs"] += 1
     return None
 
 
@@ -94,17 +108,45 @@ def couper(txt, longueur):
 
 # ---------- Faits hors date (Wikipédia, recherche par thème) ----------
 def fait_hors_date(rng, mots, used):
-    data = get_json("https://fr.wikipedia.org/w/api.php?" + urlencode({
-        "action": "query", "list": "search", "srsearch": rng.choice(mots),
-        "srlimit": 20, "format": "json"}))
-    titres = [r["title"] for r in (data or {}).get("query", {}).get("search", []) if r["title"] not in used]
+    q = rng.choice(mots)
+    if q not in _cache_recherche:
+        data = get_json("https://fr.wikipedia.org/w/api.php?" + urlencode({
+            "action": "query", "list": "search", "srsearch": q,
+            "srlimit": 20, "format": "json"}))
+        if data is None:
+            return None
+        _cache_recherche[q] = [r["title"] for r in data.get("query", {}).get("search", [])]
+    titres = [t for t in _cache_recherche[q] if t not in used]
     rng.shuffle(titres)
     for t in titres[:5]:
-        s = get_json("https://fr.wikipedia.org/api/rest_v1/page/summary/" + quote(t.replace(" ", "_"), safe=""))
+        if t not in _cache_resume:
+            r = get_json("https://fr.wikipedia.org/api/rest_v1/page/summary/" + quote(t.replace(" ", "_"), safe=""))
+            if r is not None:
+                _cache_resume[t] = r
+        s = _cache_resume.get(t)
         if s and s.get("type") == "standard" and s.get("extract"):
             return {"titre": s.get("title", t), "texte": s["extract"], "annee": None,
                     "lien": ((s.get("content_urls") or {}).get("desktop") or {}).get("page", "")}
     return None
+
+
+def fait_secours(d, rng, used):
+    """Dernier recours : un fait lié à la date, pour garantir au moins 1 fait par jour."""
+    items = [it for it in items_du_jour(d) if it["titre"] not in used]
+    if not items:
+        return None
+    tous = {**P["themes"], **P["themes_surprise"]}
+    prefere = [(n, it) for it in items for n, t in tous.items() if correspond(it, t["mots_cles"])]
+    if prefere:
+        nom, it = rng.choice(prefere)
+    else:
+        nom, it = "Hors thème", rng.choice(items)
+    fait = dict(it)
+    fait.update(theme=nom, surprise=False, date_exacte=True)
+    fait["texte"] = couper(fait["texte"], "court")
+    if isinstance(fait["annee"], int):
+        fait["texte"] = f"Il y a {d.year - fait['annee']} ans : {fait['texte']}"
+    return fait
 
 
 def tirer(d, rng, used):
@@ -187,31 +229,38 @@ def main():
               "PRODID:-//calendrier-perso//FR", "CALSCALE:GREGORIAN",
               "X-WR-CALNAME:Faits du jour", "REFRESH-INTERVAL;VALUE=DURATION:PT12H",
               "X-PUBLISHED-TTL:PT12H"]]
-    used, total, exacts = set(), 0, 0
+    used, total, exacts, sans_fait = set(), 0, 0, []
     for i in range(P["jours_passes"] + P["jours_a_venir"] + 1):
         d = debut + timedelta(days=i)
         if d in feries(d.year):
             continue
         rng = random.Random(f"{d.isoformat()}|{P['graine']}")
         n = rng.randint(P["min_par_jour"], P["max_par_jour"])
+        avant = total
         for k in range(n):
             fait = None
-            for _ in range(4):
+            for _ in range(5):
                 fait = tirer(d, rng, used)
                 if fait:
                     break
+            if not fait and k == 0:
+                fait = fait_secours(d, rng, used)
             if not fait:
                 continue
             used.add(fait["titre"])
             total += 1
             exacts += fait["date_exacte"]
             sortie += vevent(d, k, fait, maintenant)
+        if total == avant:
+            sans_fait.append(d.isoformat())
     sortie.append("END:VCALENDAR")
     dossier = RACINE / "docs"
     dossier.mkdir(exist_ok=True)
     (dossier / "calendrier.ics").write_text("\r\n".join(sortie) + "\r\n", encoding="utf-8")
     pct = round(100 * exacts / total) if total else 0
     print(f"{total} faits écrits, dont {pct} % liés à la date exacte.")
+    print(f"Jours sans aucun fait : {len(sans_fait)} {sans_fait[:10]}")
+    print(f"Requêtes échouées : {_stats_http['echecs']}")
 
 
 if __name__ == "__main__":
