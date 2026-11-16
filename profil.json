@@ -1,0 +1,372 @@
+{
+  "depot_github": "cnbpf295f8-dev/calendrier-perso",
+  "graine": "kora-2026",
+  "jours_passes": 14,
+  "jours_a_venir": 45,
+  "min_par_jour": 1,
+  "max_par_jour": 3,
+  "part_surprise": 0.2,
+  "part_date_exacte": 0.5,
+  "part_faits_longs": 0.4,
+  "themes": {
+    "Thème 01": {
+      "poids": 2.0,
+      "mots_cles": [
+        "Audre Lorde",
+        "Combahee River Collective",
+        "féminisme noir",
+        "intersectionnalité",
+        "Angela Davis",
+        "Alice Walker",
+        "Lorraine Hansberry",
+        "Marsha P. Johnson",
+        "Bessie Smith",
+        "Ma Rainey",
+        "Gladys Bentley",
+        "Stormé DeLarverie",
+        "femme noire",
+        "lesbienne noire",
+        "Black Lives Matter"
+      ]
+    },
+    "Thème 02": {
+      "poids": 1.4,
+      "mots_cles": [
+        "Sénégal",
+        "Dakar",
+        "Senghor",
+        "Négritude",
+        "panafricanisme",
+        "diaspora africaine",
+        "histoire des Noirs",
+        "Afrique",
+        "décolonisation"
+      ]
+    },
+    "Thème 03": {
+      "poids": 1.2,
+      "mots_cles": [
+        "biologie",
+        "génétique",
+        "ADN",
+        "cellule",
+        "évolution",
+        "prix Nobel de physiologie ou médecine",
+        "biodiversité",
+        "virus",
+        "vaccin",
+        "écologie",
+        "Institut Pasteur"
+      ]
+    },
+    "Thème 04": {
+      "poids": 1.0,
+      "mots_cles": [
+        "série télévisée thaïlandaise",
+        "drama coréen",
+        "drama chinois",
+        "cinéma coréen",
+        "film thaïlandais",
+        "Thaïlande",
+        "boys' love",
+        "yuri",
+        "Bangkok",
+        "GMMTV"
+      ]
+    },
+    "Thème 05": {
+      "poids": 1.0,
+      "mots_cles": [
+        "locks",
+        "dreadlocks",
+        "cheveux crépus",
+        "coiffure afro",
+        "tresses",
+        "perruque",
+        "afro",
+        "turban"
+      ]
+    },
+    "Thème 06": {
+      "poids": 0.9,
+      "mots_cles": [
+        "Paris",
+        "parisien",
+        "musée",
+        "exposition",
+        "Seine",
+        "Montmartre",
+        "Louvre"
+      ]
+    },
+    "Thème 07": {
+      "poids": 0.9,
+      "mots_cles": [
+        "mode",
+        "Fashion Week",
+        "mannequin",
+        "maquillage",
+        "couturier",
+        "bijou",
+        "piercing",
+        "tatouage"
+      ]
+    },
+    "Thème 08": {
+      "poids": 0.8,
+      "mots_cles": [
+        "mouvement social",
+        "droits humains",
+        "féminisme",
+        "abolition de l'esclavage",
+        "Conseil national de la Résistance",
+        "Sécurité sociale",
+        "droit du travail"
+      ]
+    },
+    "Thème 09": {
+      "poids": 0.8,
+      "mots_cles": [
+        "R&B",
+        "Beyoncé",
+        "Rihanna",
+        "Youssou N'Dour",
+        "album",
+        "chanteuse",
+        "soul"
+      ]
+    },
+    "Thème 10": {
+      "poids": 0.7,
+      "mots_cles": [
+        "céramique",
+        "poterie",
+        "art contemporain",
+        "sculptrice",
+        "artiste plasticienne"
+      ]
+    },
+    "Thème 11": {
+      "poids": 0.7,
+      "mots_cles": [
+        "roman",
+        "romancière",
+        "prix Goncourt",
+        "poète",
+        "littérature"
+      ]
+    },
+    "Thème 12": {
+      "poids": 0.6,
+      "mots_cles": [
+        "film",
+        "réalisatrice",
+        "festival de Cannes",
+        "série télévisée",
+        "cinéma"
+      ]
+    },
+    "Thème 13": {
+      "poids": 0.6,
+      "mots_cles": [
+        "couture",
+        "textile",
+        "wax",
+        "tissu africain",
+        "pagne",
+        "styliste",
+        "patron de couture"
+      ]
+    },
+    "Thème 14": {
+      "poids": 0.6,
+      "mots_cles": [
+        "Bangkok",
+        "Cuba",
+        "La Havane",
+        "voyage",
+        "explorateur",
+        "Thaïlande"
+      ]
+    },
+    "Thème 15": {
+      "poids": 0.5,
+      "mots_cles": [
+        "cuisine",
+        "recette",
+        "chocolat",
+        "cuisine sénégalaise",
+        "gastronomie",
+        "pâtisserie"
+      ]
+    },
+    "Thème 16": {
+      "poids": 0.4,
+      "mots_cles": [
+        "Formule 1",
+        "Grand Prix",
+        "Lewis Hamilton",
+        "Scuderia Ferrari",
+        "Mercedes",
+        "Carlos Sainz",
+        "écurie de Formule 1"
+      ]
+    },
+    "Thème 17": {
+      "poids": 0.4,
+      "mots_cles": [
+        "homosexualité",
+        "LGBT",
+        "lesbienne",
+        "Marche des fiertés",
+        "Stonewall",
+        "PACS",
+        "mariage pour tous",
+        "queer",
+        "histoire des LGBT"
+      ]
+    }
+  },
+  "themes_surprise": {
+    "Surprise 01": {
+      "poids": 1.0,
+      "mots_cles": [
+        "Sécurité sociale",
+        "protection sociale",
+        "Conseil national de la Résistance",
+        "assurance maladie",
+        "retraite",
+        "allocations familiales"
+      ]
+    },
+    "Surprise 02": {
+      "poids": 1.0,
+      "mots_cles": [
+        "salaire minimum",
+        "SMIC",
+        "droit du travail",
+        "syndicat",
+        "congés payés",
+        "pouvoir d'achat"
+      ]
+    },
+    "Surprise 03": {
+      "poids": 1.0,
+      "mots_cles": [
+        "transport en commun",
+        "métro de Paris",
+        "train",
+        "vélo",
+        "mobilité",
+        "aéroport"
+      ]
+    },
+    "Surprise 04": {
+      "poids": 1.0,
+      "mots_cles": [
+        "passoire thermique",
+        "rénovation énergétique",
+        "logement social",
+        "diagnostic de performance énergétique",
+        "précarité énergétique"
+      ]
+    },
+    "Surprise 05": {
+      "poids": 1.0,
+      "mots_cles": [
+        "astronomie",
+        "exoplanète",
+        "télescope",
+        "mission spatiale",
+        "astronaute",
+        "trou noir"
+      ]
+    },
+    "Surprise 06": {
+      "poids": 1.0,
+      "mots_cles": [
+        "architecture",
+        "architecte",
+        "urbanisme",
+        "gratte-ciel",
+        "cathédrale"
+      ]
+    },
+    "Surprise 07": {
+      "poids": 1.0,
+      "mots_cles": [
+        "jeu vidéo",
+        "console de jeux",
+        "esport",
+        "studio de développement"
+      ]
+    },
+    "Surprise 08": {
+      "poids": 1.0,
+      "mots_cles": [
+        "mathématicienne",
+        "théorème",
+        "informatique",
+        "algorithme",
+        "intelligence artificielle"
+      ]
+    },
+    "Surprise 09": {
+      "poids": 1.0,
+      "mots_cles": [
+        "voyage",
+        "explorateur",
+        "volcan",
+        "île",
+        "désert"
+      ]
+    },
+    "Surprise 10": {
+      "poids": 1.0,
+      "mots_cles": [
+        "espèce animale",
+        "zoologie",
+        "oiseau",
+        "insecte",
+        "mammifère marin"
+      ]
+    },
+    "Surprise 11": {
+      "poids": 1.0,
+      "mots_cles": [
+        "linguistique",
+        "langue",
+        "dictionnaire",
+        "alphabet",
+        "wolof"
+      ]
+    },
+    "Surprise 12": {
+      "poids": 1.0,
+      "mots_cles": [
+        "philosophe",
+        "philosophie",
+        "féminisme",
+        "éthique"
+      ]
+    },
+    "Surprise 13": {
+      "poids": 1.0,
+      "mots_cles": [
+        "invention",
+        "brevet",
+        "inventeur",
+        "révolution industrielle"
+      ]
+    },
+    "Surprise 14": {
+      "poids": 1.0,
+      "mots_cles": [
+        "économie",
+        "monnaie",
+        "inflation",
+        "mondialisation"
+      ]
+    }
+  }
+}
