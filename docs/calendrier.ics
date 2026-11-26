@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:20261112-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:📅 1968 · Guinée équatoriale
@@ -22,7 +22,7 @@ URL:https://fr.wikipedia.org/wiki/Guin%C3%A9e_%C3%A9quatoriale
 END:VEVENT
 BEGIN:VEVENT
 UID:20261113-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:📅 1954 · Scott McNealy
@@ -38,7 +38,7 @@ URL:https://fr.wikipedia.org/wiki/Scott_McNealy
 END:VEVENT
 BEGIN:VEVENT
 UID:20261114-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:📅 2003 · Taipei
@@ -54,7 +54,7 @@ URL:https://fr.wikipedia.org/wiki/Taipei
 END:VEVENT
 BEGIN:VEVENT
 UID:20261115-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:📅 1897 · Aneurin Bevan
@@ -69,80 +69,75 @@ URL:https://fr.wikipedia.org/wiki/Aneurin_Bevan
 END:VEVENT
 BEGIN:VEVENT
 UID:20261115-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-SUMMARY:💡 Rétrogradation (astronomie)
-DESCRIPTION:En astronomie\, la rétrogradation\, ou mouvement rétrograde a
- pparent\, est le recul que semble décrire un corps céleste lors de son o
- bservation par rapport aux étoiles lointaines.\n\nhttps://fr.wikipedia.or
- g/wiki/R%C3%A9trogradation_(astronomie)\nThème : Surprise 05\n👍 https:
- //github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7C
- Surprise%2005%7C20261115-1%40calendrier-perso\n👎 https://github.com/cnb
- pf295f8-dev/calendrier-perso/issues/new?title=vote%7Cdown%7CSurprise%2005%
- 7C20261115-1%40calendrier-perso
+SUMMARY:💡 Éphéméride (astronomie)
+DESCRIPTION:En astronomie\, les éphémérides sont des tables astronomique
+ s par lesquelles on détermine\, pour chaque jour\, la valeur d'une grande
+ ur caractéristique d'un objet céleste\, notamment les positions des plan
+ ètes\, de leurs satellites\, de la Lune\, du Soleil\, des étoiles\, des 
+ comètes\, voire d'un satellite artificiel de positionnement.\n\nhttps://f
+ r.wikipedia.org/wiki/%C3%89ph%C3%A9m%C3%A9ride_(astronomie)\nThème : Surp
+ rise 05\n👍 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/ne
+ w?title=vote%7Cup%7CSurprise%2005%7C20261115-1%40calendrier-perso\n👎 ht
+ tps://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cd
+ own%7CSurprise%2005%7C20261115-1%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/R%C3%A9trogradation_(astronomie)
+URL:https://fr.wikipedia.org/wiki/%C3%89ph%C3%A9m%C3%A9ride_(astronomie)
 END:VEVENT
 BEGIN:VEVENT
 UID:20261116-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:💡 Liste des œuvres yuri
-DESCRIPTION:Cette page est la liste des œuvres yuri\, qui se veut exhausti
- ve. Comme il n'y a pas de consensus sur la liste des œuvres appartenant a
- u canon yuri\, ne sont listées que les œuvres reconnues comme appartenan
- t au genre « yuri » par les éditeurs\, la presse\, les chercheurs et 
- les conventions. La présence d'une œuvre dans cette liste ne présage pa
- s du type de yuri employé\, ni de sa place ni de son importance\, seuleme
- nt que l'œuvre a été reconnue comme « yuri » ou « girls' love »
-  par une source de référence.\n\nhttps://fr.wikipedia.org/wiki/Liste_des
- _%C5%93uvres_yuri\nThème : Thème 04\n👍 https://github.com/cnbpf295f8-
- dev/calendrier-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2004%7C202611
- 16-0%40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/calendrier
- -perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2004%7C20261116-0%40calen
- drier-perso
+SUMMARY:💡 Yuri (satellite)
+DESCRIPTION:Les satellites Yuri sont une série de huit satellites de tél
+ écommunications en partie expérimentaux développés par l'agence spatia
+ le japonaise NASDA et lancés entre 1978 et 1994.\n\nhttps://fr.wikipedia.
+ org/wiki/Yuri_(satellite)\nThème : Thème 04\n👍 https://github.com/cnb
+ pf295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2004%
+ 7C20261116-0%40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/ca
+ lendrier-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2004%7C20261116-0
+ %40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Liste_des_%C5%93uvres_yuri
+URL:https://fr.wikipedia.org/wiki/Yuri_(satellite)
 END:VEVENT
 BEGIN:VEVENT
 UID:20261116-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:💡 Poterie de Castandet
-DESCRIPTION:La poterie de Castandet est une production céramique à usage 
- essentiellement utilitaire existant dans le village de Castandet\, dans le
- s Landes\, du XVe siècle au XXe siècle.\n\nhttps://fr.wikipedia.org/wi
- ki/Poterie_de_Castandet\nThème : Thème 10\n👍 https://github.com/cnbpf
- 295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2010%7C
- 20261116-1%40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/cale
- ndrier-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2010%7C20261116-1%4
- 0calendrier-perso
+SUMMARY:💡 Pot-au-feu
+DESCRIPTION:Le pot-au-feu (inv.) est une recette de cuisine traditionnelle 
+ emblématique historique de la cuisine française\, et du repas gastronomi
+ que des Français\, à base de viande de bœuf cuisant longuement à feu t
+ rès doux dans un…\n\nhttps://fr.wikipedia.org/wiki/Pot-au-feu\nThème :
+  Thème 10\n👍 https://github.com/cnbpf295f8-dev/calendrier-perso/issues
+ /new?title=vote%7Cup%7CTh%C3%A8me%2010%7C20261116-1%40calendrier-perso\n
+ 👎 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=v
+ ote%7Cdown%7CTh%C3%A8me%2010%7C20261116-1%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Poterie_de_Castandet
+URL:https://fr.wikipedia.org/wiki/Pot-au-feu
 END:VEVENT
 BEGIN:VEVENT
 UID:20261117-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:💡 Les Trottoirs de Bangkok
-DESCRIPTION:Les Trottoirs de Bangkok est un film d'espionnage français ré
- alisé par Jean Rollin en 1984. Avec La Nuit des traquées et Killing Car\
- , il s'agit d'une de ses rares incursions dans le thriller.\n\nhttps://fr.
- wikipedia.org/wiki/Les_Trottoirs_de_Bangkok\nThème : Thème 04\n👍 http
- s://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%
- 7CTh%C3%A8me%2004%7C20261117-0%40calendrier-perso\n👎 https://github.com
- /cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me
- %2004%7C20261117-0%40calendrier-perso
+SUMMARY:💡 Bangkok\, aller simple
+DESCRIPTION:Bangkok\, aller simple est un film américain réalisé par Jon
+ athan Kaplan en 1999.\n\nhttps://fr.wikipedia.org/wiki/Bangkok%2C_aller_si
+ mple\nThème : Thème 04\n👍 https://github.com/cnbpf295f8-dev/calendrie
+ r-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2004%7C20261117-0%40calend
+ rier-perso\n👎 https://github.com/cnbpf295f8-dev/calendrier-perso/issues
+ /new?title=vote%7Cdown%7CTh%C3%A8me%2004%7C20261117-0%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Les_Trottoirs_de_Bangkok
+URL:https://fr.wikipedia.org/wiki/Bangkok%2C_aller_simple
 END:VEVENT
 BEGIN:VEVENT
 UID:20261118-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:📅 1806 · Claude-Nicolas Ledoux
@@ -157,7 +152,7 @@ URL:https://fr.wikipedia.org/wiki/Claude-Nicolas_Ledoux
 END:VEVENT
 BEGIN:VEVENT
 UID:20261118-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:📅 1914 · Bataille du cap Sarytch
@@ -172,7 +167,7 @@ URL:https://fr.wikipedia.org/wiki/Bataille_du_cap_Sarytch
 END:VEVENT
 BEGIN:VEVENT
 UID:20261119-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:📅 2004 · John Vane
@@ -188,7 +183,7 @@ URL:https://fr.wikipedia.org/wiki/John_Vane
 END:VEVENT
 BEGIN:VEVENT
 UID:20261119-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:💡 Cheryl L. Clarke
@@ -205,7 +200,7 @@ URL:https://fr.wikipedia.org/wiki/Cheryl_L._Clarke
 END:VEVENT
 BEGIN:VEVENT
 UID:20261119-2@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:📅 1916 · George Hall (acteur canadien)
@@ -220,7 +215,7 @@ URL:https://fr.wikipedia.org/wiki/George_Hall_(acteur_canadien)
 END:VEVENT
 BEGIN:VEVENT
 UID:20261120-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:📅 2025 · Ankiling Diabone
@@ -235,7 +230,7 @@ URL:https://fr.wikipedia.org/wiki/Ankiling_Diabone
 END:VEVENT
 BEGIN:VEVENT
 UID:20261121-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:💡 Sylvia Rivera
@@ -254,7 +249,7 @@ URL:https://fr.wikipedia.org/wiki/Sylvia_Rivera
 END:VEVENT
 BEGIN:VEVENT
 UID:20261121-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:💡 Vêtements traditionnels de Côte d'Ivoire
@@ -272,7 +267,7 @@ URL:https://fr.wikipedia.org/wiki/V%C3%AAtements_traditionnels_de_C%C3%B4te
 END:VEVENT
 BEGIN:VEVENT
 UID:20261122-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:📅 1908 · Congrès de Monastir
@@ -287,7 +282,7 @@ URL:https://fr.wikipedia.org/wiki/Congr%C3%A8s_de_Monastir
 END:VEVENT
 BEGIN:VEVENT
 UID:20261122-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:📅 2007 · Reg Park
@@ -302,7 +297,7 @@ URL:https://fr.wikipedia.org/wiki/Reg_Park
 END:VEVENT
 BEGIN:VEVENT
 UID:20261123-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:📅 1942 · Benny Luke
@@ -317,7 +312,7 @@ URL:https://fr.wikipedia.org/wiki/Benny_Luke
 END:VEVENT
 BEGIN:VEVENT
 UID:20261123-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:📅 2011 · Achta Toné Gossingar
@@ -333,7 +328,7 @@ URL:https://fr.wikipedia.org/wiki/Achta_Ton%C3%A9_Gossingar
 END:VEVENT
 BEGIN:VEVENT
 UID:20261124-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:💡 Poterie Sue
@@ -350,7 +345,7 @@ URL:https://fr.wikipedia.org/wiki/Poterie_Sue
 END:VEVENT
 BEGIN:VEVENT
 UID:20261124-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:📅 2014 · Massacres de Damasak
@@ -365,7 +360,7 @@ URL:https://fr.wikipedia.org/wiki/Massacres_de_Damasak
 END:VEVENT
 BEGIN:VEVENT
 UID:20261125-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:💡 Révolution cubaine
@@ -383,7 +378,7 @@ URL:https://fr.wikipedia.org/wiki/R%C3%A9volution_cubaine
 END:VEVENT
 BEGIN:VEVENT
 UID:20261125-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:📅 1910 · Peine de mort
@@ -400,7 +395,7 @@ URL:https://fr.wikipedia.org/wiki/Peine_de_mort
 END:VEVENT
 BEGIN:VEVENT
 UID:20261126-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:📅 2025 · Guinée-Bissau
@@ -417,23 +412,24 @@ URL:https://fr.wikipedia.org/wiki/Guin%C3%A9e-Bissau
 END:VEVENT
 BEGIN:VEVENT
 UID:20261127-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:💡 Études crip
-DESCRIPTION:Les études crip sont un champ interdisciplinaire qui combine l
- es disability studies et la théorie queer\, en s'appuyant sur le concept 
- d'intersectionnalité.\n\nhttps://fr.wikipedia.org/wiki/%C3%89tudes_crip\n
- Thème : Thème 01\n👍 https://github.com/cnbpf295f8-dev/calendrier-pers
- o/issues/new?title=vote%7Cup%7CTh%C3%A8me%2001%7C20261127-0%40calendrier-p
- erso\n👎 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?t
- itle=vote%7Cdown%7CTh%C3%A8me%2001%7C20261127-0%40calendrier-perso
+SUMMARY:💡 Beur
+DESCRIPTION:« Beur » est un néologisme qui désigne initialement les p
+ ersonnes d'origine arabe nées sur le territoire français et dont les par
+ ents sont immigrés d'un pays du Maghreb ou plus généralement d'un pays 
+ arabe.\n\nhttps://fr.wikipedia.org/wiki/Beur\nThème : Thème 01\n👍 htt
+ ps://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cup
+ %7CTh%C3%A8me%2001%7C20261127-0%40calendrier-perso\n👎 https://github.co
+ m/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8m
+ e%2001%7C20261127-0%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/%C3%89tudes_crip
+URL:https://fr.wikipedia.org/wiki/Beur
 END:VEVENT
 BEGIN:VEVENT
 UID:20261127-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:📅 1820 · Thomas Baines
@@ -448,7 +444,7 @@ URL:https://fr.wikipedia.org/wiki/Thomas_Baines
 END:VEVENT
 BEGIN:VEVENT
 UID:20261128-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:📅 1984 · Trey Songz
@@ -463,23 +459,24 @@ URL:https://fr.wikipedia.org/wiki/Trey_Songz
 END:VEVENT
 BEGIN:VEVENT
 UID:20261128-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:💡 Until We Meet Again
-DESCRIPTION:Until We Meet Again est une série télévisée Thai BL 2019-20
- 20 mettant en vedette Natouch Siripongthon (Fluke) et Thitiwat Ritprasert 
- (Ohm).\n\nhttps://fr.wikipedia.org/wiki/Until_We_Meet_Again\nThème : Thè
- me 04\n👍 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?
- title=vote%7Cup%7CTh%C3%A8me%2004%7C20261128-1%40calendrier-perso\n👎 ht
- tps://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cd
- own%7CTh%C3%A8me%2004%7C20261128-1%40calendrier-perso
+SUMMARY:💡 Sleepless Society: Insomnia
+DESCRIPTION:Sleepless Society: Insomnia est une série télévisée polici
+ ère thaïlandaise en treize épisodes de 45 minutes\, diffusée à parti
+ r du 6 novembre 2019 sur la chaîne One 31.\n\nhttps://fr.wikipedia.org/wi
+ ki/Sleepless_Society%3A_Insomnia\nThème : Thème 04\n👍 https://github.
+ com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CTh%C3%A8m
+ e%2004%7C20261128-1%40calendrier-perso\n👎 https://github.com/cnbpf295f8
+ -dev/calendrier-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2004%7C202
+ 61128-1%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Until_We_Meet_Again
+URL:https://fr.wikipedia.org/wiki/Sleepless_Society%3A_Insomnia
 END:VEVENT
 BEGIN:VEVENT
 UID:20261128-2@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:📅 1899 · Bataille de Modder River
@@ -494,7 +491,7 @@ URL:https://fr.wikipedia.org/wiki/Bataille_de_Modder_River
 END:VEVENT
 BEGIN:VEVENT
 UID:20261129-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:📅 1934 · Nicéphore Soglo
@@ -510,23 +507,26 @@ URL:https://fr.wikipedia.org/wiki/Nic%C3%A9phore_Soglo
 END:VEVENT
 BEGIN:VEVENT
 UID:20261129-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-SUMMARY:💡 Kim Jee-woon
-DESCRIPTION:Kim Jee-woon est un réalisateur\, scénariste et directeur de 
- la photographie sud-coréen\, né le 6 juillet 1964 à Séoul.\n\nhttps://
- fr.wikipedia.org/wiki/Kim_Jee-woon\nThème : Thème 04\n👍 https://githu
- b.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CTh%C3%A
- 8me%2004%7C20261129-1%40calendrier-perso\n👎 https://github.com/cnbpf295
- f8-dev/calendrier-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2004%7C2
- 0261129-1%40calendrier-perso
+SUMMARY:💡 Go Min-si
+DESCRIPTION:Go Min-si\, née le 15 février 1995 à Daejeon en République 
+ de Corée\, est une actrice et réalisatrice sud-coréenne\, figure majeur
+ e de son agence Mystic Story Entertainment. Elle est principalement connue
+  pour ses rôles dans les séries télévisées Sweet Home et Love Alarm a
+ insi que dans les longs-métrages The Witch : Part 1. The Subversion et T
+ he Battle: Roar to Victory.\n\nhttps://fr.wikipedia.org/wiki/Go_Min-si\nTh
+ ème : Thème 04\n👍 https://github.com/cnbpf295f8-dev/calendrier-perso/
+ issues/new?title=vote%7Cup%7CTh%C3%A8me%2004%7C20261129-1%40calendrier-per
+ so\n👎 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?tit
+ le=vote%7Cdown%7CTh%C3%A8me%2004%7C20261129-1%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Kim_Jee-woon
+URL:https://fr.wikipedia.org/wiki/Go_Min-si
 END:VEVENT
 BEGIN:VEVENT
 UID:20261130-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:💡 The Motion of Light in Water
@@ -547,7 +547,7 @@ URL:https://fr.wikipedia.org/wiki/The_Motion_of_Light_in_Water
 END:VEVENT
 BEGIN:VEVENT
 UID:20261201-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:📅 1827 · John Medley Wood
@@ -562,7 +562,7 @@ URL:https://fr.wikipedia.org/wiki/John_Medley_Wood
 END:VEVENT
 BEGIN:VEVENT
 UID:20261202-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:💡 Louis Pasteur
@@ -579,7 +579,7 @@ URL:https://fr.wikipedia.org/wiki/Louis_Pasteur
 END:VEVENT
 BEGIN:VEVENT
 UID:20261202-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:📅 2023 · Concha Velasco
@@ -595,40 +595,41 @@ URL:https://fr.wikipedia.org/wiki/Concha_Velasco
 END:VEVENT
 BEGIN:VEVENT
 UID:20261203-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:💡 Angélique (sculptrice)
-DESCRIPTION:Angélique Lefèvre\, dite Angélique\, née en 1957 à Marcill
- y-le-Hayer\, est une sculptrice et photographe française. Elle vit et tra
- vaille à Paris.\n\nhttps://fr.wikipedia.org/wiki/Ang%C3%A9lique_(sculptri
- ce)\nThème : Thème 10\n👍 https://github.com/cnbpf295f8-dev/calendrier
- -perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2010%7C20261203-0%40calendr
- ier-perso\n👎 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/
- new?title=vote%7Cdown%7CTh%C3%A8me%2010%7C20261203-0%40calendrier-perso
+SUMMARY:💡 Claude Vignon (sculptrice)
+DESCRIPTION:Claude Vignon\, pseudonyme de Marie-Noémie Cadiot\, est une sc
+ ulptrice\, critique d'art\, journaliste\, romancière et féministe franç
+ aise\, née le 12 décembre 1828 à Paris et morte le 10 avril 1888 à Vil
+ lefranche-sur-Mer (Alpe…\n\nhttps://fr.wikipedia.org/wiki/Claude_Vignon_
+ (sculptrice)\nThème : Thème 10\n👍 https://github.com/cnbpf295f8-dev/c
+ alendrier-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2010%7C20261203-0%
+ 40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/calendrier-pers
+ o/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2010%7C20261203-0%40calendrier
+ -perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Ang%C3%A9lique_(sculptrice)
+URL:https://fr.wikipedia.org/wiki/Claude_Vignon_(sculptrice)
 END:VEVENT
 BEGIN:VEVENT
 UID:20261203-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:💡 Yuri Alberto
-DESCRIPTION:Yuri Alberto Ribeiro da Silva dit Yuri Alberto\, né le 18 mars
-  2001 à São José dos Campos au Brésil\, est un footballeur internation
- al brésilien qui joue au poste d'avant-centre au SC Corinthians.\n\nhttps
- ://fr.wikipedia.org/wiki/Yuri_Alberto\nThème : Thème 04\n👍 https://gi
- thub.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CTh%C
- 3%A8me%2004%7C20261203-1%40calendrier-perso\n👎 https://github.com/cnbpf
- 295f8-dev/calendrier-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2004%
- 7C20261203-1%40calendrier-perso
+SUMMARY:💡 Yuri Slezkine
+DESCRIPTION:Yuri Slezkine est un historien et anthropologue américain d'or
+ igine russe. Il enseigne l'Histoire de la Russie.\n\nhttps://fr.wikipedia.
+ org/wiki/Yuri_Slezkine\nThème : Thème 04\n👍 https://github.com/cnbpf2
+ 95f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2004%7C2
+ 0261203-1%40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/calen
+ drier-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2004%7C20261203-1%40
+ calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Yuri_Alberto
+URL:https://fr.wikipedia.org/wiki/Yuri_Slezkine
 END:VEVENT
 BEGIN:VEVENT
 UID:20261203-2@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:📅 1967 · Transplantation cardiaque
@@ -644,7 +645,7 @@ URL:https://fr.wikipedia.org/wiki/Transplantation_cardiaque
 END:VEVENT
 BEGIN:VEVENT
 UID:20261204-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:💡 Tatouage (film\, 1966)
@@ -661,7 +662,7 @@ URL:https://fr.wikipedia.org/wiki/Tatouage_(film%2C_1966)
 END:VEVENT
 BEGIN:VEVENT
 UID:20261204-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:📅 1945 · Thomas Hunt Morgan
@@ -677,7 +678,7 @@ URL:https://fr.wikipedia.org/wiki/Thomas_Hunt_Morgan
 END:VEVENT
 BEGIN:VEVENT
 UID:20261205-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:💡 Musée d'Orsay
@@ -693,7 +694,7 @@ URL:https://fr.wikipedia.org/wiki/Mus%C3%A9e_d'Orsay
 END:VEVENT
 BEGIN:VEVENT
 UID:20261205-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:📅 2013 · Nelson Mandela
@@ -709,7 +710,7 @@ URL:https://fr.wikipedia.org/wiki/Nelson_Mandela
 END:VEVENT
 BEGIN:VEVENT
 UID:20261205-2@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:📅 2013 · Bataille de Bangui (2013-2014)
@@ -726,7 +727,7 @@ URL:https://fr.wikipedia.org/wiki/Bataille_de_Bangui_(2013-2014)
 END:VEVENT
 BEGIN:VEVENT
 UID:20261206-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:💡 Yuri Mansur
@@ -743,56 +744,57 @@ URL:https://fr.wikipedia.org/wiki/Yuri_Mansur
 END:VEVENT
 BEGIN:VEVENT
 UID:20261206-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-SUMMARY:💡 Festival de Cannes 2024
-DESCRIPTION:Le Festival de Cannes 2024\, 77e édition de la manifestation\,
-  se déroule du 14 au 25 mai 2024 au Palais des festivals\, à Cannes. La 
- présidente du jury est l'actrice et réalisatrice Greta Gerwig.\n\nhttps:
- //fr.wikipedia.org/wiki/Festival_de_Cannes_2024\nThème : Thème 12\n👍 
- https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7
- Cup%7CTh%C3%A8me%2012%7C20261206-1%40calendrier-perso\n👎 https://github
- .com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cdown%7CTh%C3%
- A8me%2012%7C20261206-1%40calendrier-perso
+SUMMARY:💡 Festival de Cannes 2022
+DESCRIPTION:Le Festival de Cannes 2022\, 75e édition\, se déroule du 17 
+ au 28 mai 2022 au Palais des festivals\, à Cannes. Le président du jury 
+ est l'acteur français Vincent Lindon et la maîtresse de cérémonie est 
+ Virginie Efira.\n\nhttps://fr.wikipedia.org/wiki/Festival_de_Cannes_2022\n
+ Thème : Thème 12\n👍 https://github.com/cnbpf295f8-dev/calendrier-pers
+ o/issues/new?title=vote%7Cup%7CTh%C3%A8me%2012%7C20261206-1%40calendrier-p
+ erso\n👎 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?t
+ itle=vote%7Cdown%7CTh%C3%A8me%2012%7C20261206-1%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Festival_de_Cannes_2024
+URL:https://fr.wikipedia.org/wiki/Festival_de_Cannes_2022
 END:VEVENT
 BEGIN:VEVENT
 UID:20261206-2@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-SUMMARY:💡 Coiffure
-DESCRIPTION:La coiffure est l'art d'arranger les cheveux\, éventuellement 
- de modifier leur aspect extérieur.\n\nhttps://fr.wikipedia.org/wiki/Coiff
- ure\nThème : Thème 05\n👍 https://github.com/cnbpf295f8-dev/calendrier
- -perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2005%7C20261206-2%40calendr
- ier-perso\n👎 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/
- new?title=vote%7Cdown%7CTh%C3%A8me%2005%7C20261206-2%40calendrier-perso
+SUMMARY:💡 Maggie Smith
+DESCRIPTION:Margaret Smith\, dite Maggie Smith\, est une actrice britanniqu
+ e\, née le 28 décembre 1934 à Ilford et morte le 27 septembre 2024 à L
+ ondres.\n\nhttps://fr.wikipedia.org/wiki/Maggie_Smith\nThème : Thème 05\
+ n👍 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=
+ vote%7Cup%7CTh%C3%A8me%2005%7C20261206-2%40calendrier-perso\n👎 https://
+ github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cdown%7C
+ Th%C3%A8me%2005%7C20261206-2%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Coiffure
+URL:https://fr.wikipedia.org/wiki/Maggie_Smith
 END:VEVENT
 BEGIN:VEVENT
 UID:20261207-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:💡 Aaliyah
-DESCRIPTION:Aaliyah\, née le 16 janvier 1979 à New York et morte dans un 
- accident d'avion le 25 août 2001 à Marsh Harbour aux Bahamas\, est une c
- hanteuse\, actrice\, danseuse et mannequin américaine.\n\nhttps://fr.wiki
- pedia.org/wiki/Aaliyah\nThème : Thème 09\n👍 https://github.com/cnbpf2
- 95f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2009%7C2
- 0261207-0%40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/calen
- drier-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2009%7C20261207-0%40
- calendrier-perso
+SUMMARY:💡 Bénodet
+DESCRIPTION:Bénodet\, Benoded en breton\, est une commune française situ
+ ée dans le sud du département du Finistère\, en région Bretagne. C'est
+  une station balnéaire classée. La commune se dénommait Perguet jusqu'e
+ n 1878.\n\nhttps://fr.wikipedia.org/wiki/B%C3%A9nodet\nThème : Thème 09\
+ n👍 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=
+ vote%7Cup%7CTh%C3%A8me%2009%7C20261207-0%40calendrier-perso\n👎 https://
+ github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cdown%7C
+ Th%C3%A8me%2009%7C20261207-0%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Aaliyah
+URL:https://fr.wikipedia.org/wiki/B%C3%A9nodet
 END:VEVENT
 BEGIN:VEVENT
 UID:20261208-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:📅 1936 · David Carradine
@@ -807,7 +809,7 @@ URL:https://fr.wikipedia.org/wiki/David_Carradine
 END:VEVENT
 BEGIN:VEVENT
 UID:20261208-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:📅 1939 · Jerry Butler
@@ -822,7 +824,7 @@ URL:https://fr.wikipedia.org/wiki/Jerry_Butler
 END:VEVENT
 BEGIN:VEVENT
 UID:20261209-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:📅 1868 · Fritz Haber
@@ -838,23 +840,24 @@ URL:https://fr.wikipedia.org/wiki/Fritz_Haber
 END:VEVENT
 BEGIN:VEVENT
 UID:20261209-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:💡 Fatou N'Diaye (influenceuse)
-DESCRIPTION:Fatou N'Diaye\, née en 1977 à Paris en France\, est une influ
- enceuse française.\n\nhttps://fr.wikipedia.org/wiki/Fatou_N'Diaye_(influe
- nceuse)\nThème : Thème 05\n👍 https://github.com/cnbpf295f8-dev/calend
- rier-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2005%7C20261209-1%40cal
- endrier-perso\n👎 https://github.com/cnbpf295f8-dev/calendrier-perso/iss
- ues/new?title=vote%7Cdown%7CTh%C3%A8me%2005%7C20261209-1%40calendrier-pers
- o
+SUMMARY:💡 Golliwog
+DESCRIPTION:Un golliwog\, aussi appelé golliwogg ou golly\, est une poupé
+ e de chiffon ou d'étoffe représentant une personne noire aux cheveux cr
+ épus\, généralement de sexe masculin.\n\nhttps://fr.wikipedia.org/wiki/
+ Golliwog\nThème : Thème 05\n👍 https://github.com/cnbpf295f8-dev/calen
+ drier-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2005%7C20261209-1%40ca
+ lendrier-perso\n👎 https://github.com/cnbpf295f8-dev/calendrier-perso/is
+ sues/new?title=vote%7Cdown%7CTh%C3%A8me%2005%7C20261209-1%40calendrier-per
+ so
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Fatou_N'Diaye_(influenceuse)
+URL:https://fr.wikipedia.org/wiki/Golliwog
 END:VEVENT
 BEGIN:VEVENT
 UID:20261210-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:💡 Colette Senghor
@@ -871,7 +874,7 @@ URL:https://fr.wikipedia.org/wiki/Colette_Senghor
 END:VEVENT
 BEGIN:VEVENT
 UID:20261210-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:📅 2020 · Israël
@@ -887,7 +890,7 @@ URL:https://fr.wikipedia.org/wiki/Isra%C3%ABl
 END:VEVENT
 BEGIN:VEVENT
 UID:20261210-2@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:💡 Travail en perruque
@@ -904,54 +907,61 @@ URL:https://fr.wikipedia.org/wiki/Travail_en_perruque
 END:VEVENT
 BEGIN:VEVENT
 UID:20261211-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:💡 Sara Sadik
-DESCRIPTION:Sara Sadik\, née en 1994 à Bordeaux\, est une artiste plastic
- ienne française.\n\nhttps://fr.wikipedia.org/wiki/Sara_Sadik\nThème : Th
- ème 10\n👍 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/ne
- w?title=vote%7Cup%7CTh%C3%A8me%2010%7C20261211-0%40calendrier-perso\n👎 
- https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7
- Cdown%7CTh%C3%A8me%2010%7C20261211-0%40calendrier-perso
+SUMMARY:💡 Sophie Calle
+DESCRIPTION:Sophie Calle\, née à Paris le 9 octobre 1953\, est une artist
+ e plasticienne\, photographe\, femme de lettres et réalisatrice français
+ e.\n\nhttps://fr.wikipedia.org/wiki/Sophie_Calle\nThème : Thème 10\n👍
+  https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%
+ 7Cup%7CTh%C3%A8me%2010%7C20261211-0%40calendrier-perso\n👎 https://githu
+ b.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cdown%7CTh%C3
+ %A8me%2010%7C20261211-0%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Sara_Sadik
+URL:https://fr.wikipedia.org/wiki/Sophie_Calle
 END:VEVENT
 BEGIN:VEVENT
 UID:20261212-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:💡 Christophe Lemaire (styliste)
-DESCRIPTION:Christophe Lemaire\, né le 12 avril 1965 à Besançon\, est un
-  styliste de prêt-à-porter pour femme et homme.\n\nhttps://fr.wikipedia.
- org/wiki/Christophe_Lemaire_(styliste)\nThème : Thème 13\n👍 https://g
- ithub.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CTh%
- C3%A8me%2013%7C20261212-0%40calendrier-perso\n👎 https://github.com/cnbp
- f295f8-dev/calendrier-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2013
- %7C20261212-0%40calendrier-perso
+SUMMARY:💡 Rick Owens
+DESCRIPTION:Rick Owens\, né le 18 novembre 1961 à Porterville\, est un st
+ yliste américain reconnu pour être l'un des derniers à avoir perpétué
+  le mouvement minimaliste et « antifashion » des années 1990\, tout e
+ n incluant une certaine…\n\nhttps://fr.wikipedia.org/wiki/Rick_Owens\nTh
+ ème : Thème 13\n👍 https://github.com/cnbpf295f8-dev/calendrier-perso/
+ issues/new?title=vote%7Cup%7CTh%C3%A8me%2013%7C20261212-0%40calendrier-per
+ so\n👎 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?tit
+ le=vote%7Cdown%7CTh%C3%A8me%2013%7C20261212-0%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Christophe_Lemaire_(styliste)
+URL:https://fr.wikipedia.org/wiki/Rick_Owens
 END:VEVENT
 BEGIN:VEVENT
 UID:20261212-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:💡 BRT de Dakar
-DESCRIPTION:Le BRT de Dakar\, aussi appelé commercialement SunuBRT\, est u
- n axe de transport de masse mis en service en 2024 à Dakar\, au Sénégal
- .\n\nhttps://fr.wikipedia.org/wiki/BRT_de_Dakar\nThème : Thème 02\n👍 
- https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7
- Cup%7CTh%C3%A8me%2002%7C20261212-1%40calendrier-perso\n👎 https://github
- .com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cdown%7CTh%C3%
- A8me%2002%7C20261212-1%40calendrier-perso
+SUMMARY:💡 Tableau des médailles des Jeux olympiques de la jeunesse d'é
+ té de 2026
+DESCRIPTION:Le tableau des médailles des Jeux olympiques de la jeunesse d'
+ été de 2026 est le classement des comités nationaux olympiques (CNO) pa
+ r le nombre de médailles remportés par leurs athlètes durant les Jeux o
+ lympiques de la jeunesse de 2026\, qui ont lieu à Dakar du 31 octobre au 
+ 13 novembre 2026.\n\nhttps://fr.wikipedia.org/wiki/Tableau_des_m%C3%A9dail
+ les_des_Jeux_olympiques_de_la_jeunesse_d'%C3%A9t%C3%A9_de_2026\nThème : T
+ hème 02\n👍 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/n
+ ew?title=vote%7Cup%7CTh%C3%A8me%2002%7C20261212-1%40calendrier-perso\n👎
+  https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%
+ 7Cdown%7CTh%C3%A8me%2002%7C20261212-1%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/BRT_de_Dakar
+URL:https://fr.wikipedia.org/wiki/Tableau_des_m%C3%A9dailles_des_Jeux_olymp
+ iques_de_la_jeunesse_d'%C3%A9t%C3%A9_de_2026
 END:VEVENT
 BEGIN:VEVENT
 UID:20261212-2@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:📅 2024 · Edith Heard
@@ -967,7 +977,7 @@ URL:https://fr.wikipedia.org/wiki/Edith_Heard
 END:VEVENT
 BEGIN:VEVENT
 UID:20261213-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:📅 2016 · Zubaida Tharwat
@@ -982,7 +992,7 @@ URL:https://fr.wikipedia.org/wiki/Zubaida_Tharwat
 END:VEVENT
 BEGIN:VEVENT
 UID:20261214-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:💡 Woke
@@ -998,7 +1008,7 @@ URL:https://fr.wikipedia.org/wiki/Woke
 END:VEVENT
 BEGIN:VEVENT
 UID:20261214-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:📅 2022 · Charlene Mitchell
@@ -1013,24 +1023,27 @@ URL:https://fr.wikipedia.org/wiki/Charlene_Mitchell
 END:VEVENT
 BEGIN:VEVENT
 UID:20261214-2@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-SUMMARY:💡 Insecte social
-DESCRIPTION:Les insectes sociaux sont des insectes qui vivent et s'organise
- nt en colonies et démontrent une intelligence collective leur permettant 
- de retirer un bénéfice de leur instinct grégaire.\n\nhttps://fr.wikiped
- ia.org/wiki/Insecte_social\nThème : Surprise 10\n👍 https://github.com/
- cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CSurprise%2010
- %7C20261214-2%40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/c
- alendrier-perso/issues/new?title=vote%7Cdown%7CSurprise%2010%7C20261214-2%
- 40calendrier-perso
+SUMMARY:💡 Insecte ravageur
+DESCRIPTION:Un insecte ravageur est une espèce d'insectes considérée com
+ me nuisible pour les cultures agricoles et les jardins\, pour les arbres e
+ t la végétation en général\, ainsi que pour les denrées entreposées.
+  Les dégâts causés aux plantes peuvent affecter tous les organes des pl
+ antes\, aériens ou souterrains\, et peuvent être dus aussi bien aux inse
+ ctes adultes (imagos) qu'aux larves.\n\nhttps://fr.wikipedia.org/wiki/Inse
+ cte_ravageur\nThème : Surprise 10\n👍 https://github.com/cnbpf295f8-dev
+ /calendrier-perso/issues/new?title=vote%7Cup%7CSurprise%2010%7C20261214-2%
+ 40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/calendrier-pers
+ o/issues/new?title=vote%7Cdown%7CSurprise%2010%7C20261214-2%40calendrier-p
+ erso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Insecte_social
+URL:https://fr.wikipedia.org/wiki/Insecte_ravageur
 END:VEVENT
 BEGIN:VEVENT
 UID:20261215-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:💡 Bataille de Dakar
@@ -1047,7 +1060,7 @@ URL:https://fr.wikipedia.org/wiki/Bataille_de_Dakar
 END:VEVENT
 BEGIN:VEVENT
 UID:20261215-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:📅 1946 · Carmine Appice
@@ -1062,7 +1075,7 @@ URL:https://fr.wikipedia.org/wiki/Carmine_Appice
 END:VEVENT
 BEGIN:VEVENT
 UID:20261215-2@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:📅 1910 · Robert Seguy
@@ -1077,7 +1090,7 @@ URL:https://fr.wikipedia.org/wiki/Robert_Seguy
 END:VEVENT
 BEGIN:VEVENT
 UID:20261216-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:📅 1324 · Cecco d'Ascoli
@@ -1093,7 +1106,7 @@ URL:https://fr.wikipedia.org/wiki/Cecco_d'Ascoli
 END:VEVENT
 BEGIN:VEVENT
 UID:20261216-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:📅 1838 · Bataille de Blood River
@@ -1109,7 +1122,7 @@ URL:https://fr.wikipedia.org/wiki/Bataille_de_Blood_River
 END:VEVENT
 BEGIN:VEVENT
 UID:20261216-2@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:📅 2020 · Sonde spatiale
@@ -1126,24 +1139,25 @@ URL:https://fr.wikipedia.org/wiki/Sonde_spatiale
 END:VEVENT
 BEGIN:VEVENT
 UID:20261217-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-SUMMARY:💡 Inflation législative
-DESCRIPTION:L'inflation législative est la croissance du nombre et de la l
- ongueur des lois et\, plus généralement\, du droit. On parle aussi\, plu
- s largement\, d'inflation normative.\n\nhttps://fr.wikipedia.org/wiki/Infl
- ation_l%C3%A9gislative\nThème : Surprise 14\n👍 https://github.com/cnbp
- f295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CSurprise%2014%7C2
- 0261217-0%40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/calen
- drier-perso/issues/new?title=vote%7Cdown%7CSurprise%2014%7C20261217-0%40ca
- lendrier-perso
+SUMMARY:💡 Won sud-coréen (depuis 1962)
+DESCRIPTION:Le won sud-coréen est la monnaie de la Corée du Sud depuis 19
+ 62\, en remplacement du hwan qui avait été utilisé de 1953 à 1962. Au 
+ 22 juin 2026\, il faut 1 762 wons pour 1 euro \; en décembre 2024\, l'
+ inflation annuelle était estimée à 1\,96 %.\n\nhttps://fr.wikipedia.or
+ g/wiki/Won_sud-cor%C3%A9en_(depuis_1962)\nThème : Surprise 14\n👍 https
+ ://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7
+ CSurprise%2014%7C20261217-0%40calendrier-perso\n👎 https://github.com/cn
+ bpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cdown%7CSurprise%2014
+ %7C20261217-0%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Inflation_l%C3%A9gislative
+URL:https://fr.wikipedia.org/wiki/Won_sud-cor%C3%A9en_(depuis_1962)
 END:VEVENT
 BEGIN:VEVENT
 UID:20261217-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:📅 1940 · Anna Prucnal
@@ -1158,7 +1172,7 @@ URL:https://fr.wikipedia.org/wiki/Anna_Prucnal
 END:VEVENT
 BEGIN:VEVENT
 UID:20261218-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:📅 1946 · Steve Biko
@@ -1173,44 +1187,48 @@ URL:https://fr.wikipedia.org/wiki/Steve_Biko
 END:VEVENT
 BEGIN:VEVENT
 UID:20261218-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-SUMMARY:💡 Mireille Havet
-DESCRIPTION:Mireille Havet de Soyécourt est une écrivaine française des 
- Années folles\, née le 4 octobre 1898 à Médan (Yvelines) et morte le 2
- 1 mars 1932 au sanatorium de Montana (Suisse).\n\nhttps://fr.wikipedia.org
- /wiki/Mireille_Havet\nThème : Thème 17\n👍 https://github.com/cnbpf295
- f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2017%7C202
- 61218-1%40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/calendr
- ier-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2017%7C20261218-1%40ca
- lendrier-perso
+SUMMARY:💡 Histoire de l'homosexualité
+DESCRIPTION:L'histoire de l'homosexualité est une histoire multiple. Elle 
+ regroupe diverses histoires différentes en fonction des aires géographiq
+ ues\, même si la mondialisation\, en particulier culturelle\, politique e
+ t sanitaire permet l'émergence d'une histoire mondiale de l'homosexualit
+ é. Les hommes et femmes homosexuels ont aussi une histoire parfois commun
+ e\, parfois évoluant de manière parallèle. Enfin\, l'histoire de l'homo
+ sexualité a de nombreux liens avec l'histoire de la bisexualité ou plus 
+ généralement des autres minorités sexuelles et de genre.\n\nhttps://fr.
+ wikipedia.org/wiki/Histoire_de_l'homosexualit%C3%A9\nThème : Thème 17\n
+ 👍 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=v
+ ote%7Cup%7CTh%C3%A8me%2017%7C20261218-1%40calendrier-perso\n👎 https://g
+ ithub.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cdown%7CT
+ h%C3%A8me%2017%7C20261218-1%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Mireille_Havet
+URL:https://fr.wikipedia.org/wiki/Histoire_de_l'homosexualit%C3%A9
 END:VEVENT
 BEGIN:VEVENT
 UID:20261219-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-SUMMARY:💡 Dexter (série télévisée)
-DESCRIPTION:Dexter est une série télévisée américaine\, mettant en sc
- ène un expert en médecine légale qui est en réalité un psychopathe ch
- oisissant de canaliser ses pulsions meurtrières en tuant des personnes cr
- iminelles et non innocentes.(à l'exception de quelques fois après un for
- t traumatisme).\n\nhttps://fr.wikipedia.org/wiki/Dexter_(s%C3%A9rie_t%C3%A
- 9l%C3%A9vis%C3%A9e)\nThème : Thème 05\n👍 https://github.com/cnbpf295f
- 8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2005%7C2026
- 1219-0%40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/calendri
- er-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2005%7C20261219-0%40cal
- endrier-perso
+SUMMARY:💡 La Tresse
+DESCRIPTION:La Tresse est un roman français écrit par Laetitia Colombani\
+ , publié par Juliette Joste aux éditions Grasset en 2017 puis réédité
+  en 2018 aux éditions Le Livre de Poche et traduit en 40 langues. Il s'ag
+ it du premier roman de l’autrice. Le récit suit trois femmes dans leur 
+ quête d’émancipation et leur lutte contre les discriminations.\n\nhttp
+ s://fr.wikipedia.org/wiki/La_Tresse\nThème : Thème 05\n👍 https://gith
+ ub.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CTh%C3%
+ A8me%2005%7C20261219-0%40calendrier-perso\n👎 https://github.com/cnbpf29
+ 5f8-dev/calendrier-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2005%7C
+ 20261219-0%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Dexter_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A
- 9e)
+URL:https://fr.wikipedia.org/wiki/La_Tresse
 END:VEVENT
 BEGIN:VEVENT
 UID:20261219-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:📅 2012 · Colin Davis (pilote automobile)
@@ -1226,7 +1244,7 @@ URL:https://fr.wikipedia.org/wiki/Colin_Davis_(pilote_automobile)
 END:VEVENT
 BEGIN:VEVENT
 UID:20261220-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:💡 Littérature lesbienne noire des États-Unis
@@ -1245,67 +1263,68 @@ URL:https://fr.wikipedia.org/wiki/Litt%C3%A9rature_lesbienne_noire_des_%C3%
 END:VEVENT
 BEGIN:VEVENT
 UID:20261220-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-SUMMARY:💡 Garantie individuelle du pouvoir d'achat
-DESCRIPTION:La garantie individuelle du pouvoir d'achat (GIPA) est\, dans l
- 'administration française\, une indemnité dont peut bénéficier un agen
- t public\, si l'évolution de son traitement brut est inférieure\, sur qu
- atre ans\, à celle d…\n\nhttps://fr.wikipedia.org/wiki/Garantie_individ
- uelle_du_pouvoir_d'achat\nThème : Surprise 02\n👍 https://github.com/cn
- bpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CSurprise%2002%7
- C20261220-1%40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/cal
- endrier-perso/issues/new?title=vote%7Cdown%7CSurprise%2002%7C20261220-1%40
- calendrier-perso
+SUMMARY:💡 Liste des pays par PIB nominal par habitant
+DESCRIPTION:Cette liste est celle des pays du monde classés selon la valeu
+ r de leur produit intérieur brut (PIB) annuel\, en valeur nominale\, par 
+ tête.\n\nhttps://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_nominal_par
+ _habitant\nThème : Surprise 02\n👍 https://github.com/cnbpf295f8-dev/ca
+ lendrier-perso/issues/new?title=vote%7Cup%7CSurprise%2002%7C20261220-1%40c
+ alendrier-perso\n👎 https://github.com/cnbpf295f8-dev/calendrier-perso/i
+ ssues/new?title=vote%7Cdown%7CSurprise%2002%7C20261220-1%40calendrier-pers
+ o
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Garantie_individuelle_du_pouvoir_d'achat
+URL:https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB_nominal_par_habita
+ nt
 END:VEVENT
 BEGIN:VEVENT
 UID:20261221-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-SUMMARY:💡 Âge du fer
-DESCRIPTION:L’âge du fer est une période archéologique caractérisée 
- par la métallurgie du fer et faisant suite à l'âge du bronze en Eurasie
-  et en Afrique du Nord. Toutefois\, les limites chronologiques de l'âge d
- u fer varient selon l'aire culturelle et géographique considérée. L'âg
- e du fer appartient à la Préhistoire\, à la Protohistoire ou à l'Antiq
- uité selon les populations et régions concernées.\n\nhttps://fr.wikiped
- ia.org/wiki/%C3%82ge_du_fer\nThème : Thème 02\n👍 https://github.com/c
- nbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%200
- 2%7C20261221-0%40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/
- calendrier-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2002%7C20261221
- -0%40calendrier-perso
+SUMMARY:💡 Empire colonial français
+DESCRIPTION:L’Empire colonial français est l’ensemble des colonies\, p
+ rotectorats\, territoires sous mandat et territoires ayant été sous tute
+ lle\, gouvernés ou administrés par la France. Inauguré au XVIe siècle
+ \, il a connu une évolution très contrastée selon les époques\, aussi 
+ bien par son étendue que par sa population ou sa richesse.\n\nhttps://fr.
+ wikipedia.org/wiki/Empire_colonial_fran%C3%A7ais\nThème : Thème 02\n👍
+  https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%
+ 7Cup%7CTh%C3%A8me%2002%7C20261221-0%40calendrier-perso\n👎 https://githu
+ b.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cdown%7CTh%C3
+ %A8me%2002%7C20261221-0%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/%C3%82ge_du_fer
+URL:https://fr.wikipedia.org/wiki/Empire_colonial_fran%C3%A7ais
 END:VEVENT
 BEGIN:VEVENT
 UID:20261222-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-SUMMARY:💡 Sans-abri
-DESCRIPTION:Le sans-abrisme désigne la situation d'une personne qui ne dis
- pose pas d’un logement stable\, sûr et convenable\, ni des moyens et de
-  la capacité de l’obtenir. Les personnes concernées\, également appel
- ées sans-domicile\, sans-abri\, itinérants\, sans logis ou SDF\, réside
- nt et dorment dans des lieux non destinés à l'habitation : caves\, park
- ings\, refuges de fortune\, véhicules\, entrepôts\, bâtiments technique
- s\, parties communes d'immeubles\, chantiers\, stations de métro\, gares\
- , rues ou terrains vagues. Elles se déplacent généralement dans l'espac
- e public.\n\nhttps://fr.wikipedia.org/wiki/Sans-abri\nThème : Surprise 04
- \n👍 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title
- =vote%7Cup%7CSurprise%2004%7C20261222-0%40calendrier-perso\n👎 https://g
- ithub.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cdown%7CS
- urprise%2004%7C20261222-0%40calendrier-perso
+SUMMARY:💡 Confédération nationale du logement
+DESCRIPTION:La Confédération nationale du logement (CNL) est une associat
+ ion française loi de 1901\, née pendant la Première Guerre mondiale\, e
+ n 1916\, engagée pour le droit au logement et l'amélioration du cadre de
+  vie. Elle est aujourd’hui présente dans la plupart des régions et dé
+ partements français et regroupe plus de 4 600 amicales locales. La CNL co
+ mpte environ 70 000 familles adhérentes. Elle est fondée sur le principe
+  selon lequel toute personne doit pouvoir accéder à un logement à la fo
+ is sûr\, sain et accessible quels que soient ses moyens\, couramment appe
+ lé « droit au logement ».\n\nhttps://fr.wikipedia.org/wiki/Conf%C3%A9
+ d%C3%A9ration_nationale_du_logement\nThème : Surprise 04\n👍 https://gi
+ thub.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CSurp
+ rise%2004%7C20261222-0%40calendrier-perso\n👎 https://github.com/cnbpf29
+ 5f8-dev/calendrier-perso/issues/new?title=vote%7Cdown%7CSurprise%2004%7C20
+ 261222-0%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Sans-abri
+URL:https://fr.wikipedia.org/wiki/Conf%C3%A9d%C3%A9ration_nationale_du_loge
+ ment
 END:VEVENT
 BEGIN:VEVENT
 UID:20261223-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:💡 Fast fashion
@@ -1323,7 +1342,7 @@ URL:https://fr.wikipedia.org/wiki/Fast_fashion
 END:VEVENT
 BEGIN:VEVENT
 UID:20261223-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:📅 2023 · Massacres de l'État de Plateau
@@ -1340,7 +1359,7 @@ URL:https://fr.wikipedia.org/wiki/Massacres_de_l'%C3%89tat_de_Plateau
 END:VEVENT
 BEGIN:VEVENT
 UID:20261224-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:📅 1999 · Côte d'Ivoire
@@ -1356,25 +1375,24 @@ URL:https://fr.wikipedia.org/wiki/C%C3%B4te_d'Ivoire
 END:VEVENT
 BEGIN:VEVENT
 UID:20261226-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-SUMMARY:💡 Test ADN généalogique
-DESCRIPTION:Un test ADN généalogique est un test basé sur l'acide désox
- yribonucléique (ADN) qui examine des emplacements spécifiques du génome
-  d'une personne afin de rechercher ou de vérifier des relations paléo-g
- énéalogiques ancest…\n\nhttps://fr.wikipedia.org/wiki/Test_ADN_g%C3%A9
- n%C3%A9alogique\nThème : Thème 03\n👍 https://github.com/cnbpf295f8-de
- v/calendrier-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2003%7C20261226
- -0%40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/calendrier-p
- erso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2003%7C20261226-0%40calendr
- ier-perso
+SUMMARY:💡 Empreinte génétique
+DESCRIPTION:Une empreinte génétique\, ou profil génétique\, est le rés
+ ultat d'une analyse génétique de l'ADN\, rendant possible l'identificati
+ on d'une personne à partir d'une petite quantité de ses tissus biologiqu
+ es.\n\nhttps://fr.wikipedia.org/wiki/Empreinte_g%C3%A9n%C3%A9tique\nThème
+  : Thème 03\n👍 https://github.com/cnbpf295f8-dev/calendrier-perso/issu
+ es/new?title=vote%7Cup%7CTh%C3%A8me%2003%7C20261226-0%40calendrier-perso\n
+ 👎 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=v
+ ote%7Cdown%7CTh%C3%A8me%2003%7C20261226-0%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Test_ADN_g%C3%A9n%C3%A9alogique
+URL:https://fr.wikipedia.org/wiki/Empreinte_g%C3%A9n%C3%A9tique
 END:VEVENT
 BEGIN:VEVENT
 UID:20261226-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:📅 1918 · Ntsu Mokhehle
@@ -1389,7 +1407,7 @@ URL:https://fr.wikipedia.org/wiki/Ntsu_Mokhehle
 END:VEVENT
 BEGIN:VEVENT
 UID:20261227-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:💡 Contribution sociale généralisée
@@ -1408,7 +1426,7 @@ URL:https://fr.wikipedia.org/wiki/Contribution_sociale_g%C3%A9n%C3%A9ralis%
 END:VEVENT
 BEGIN:VEVENT
 UID:20261227-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:📅 1964 · République du Congo (Léopoldville)
@@ -1426,7 +1444,7 @@ URL:https://fr.wikipedia.org/wiki/R%C3%A9publique_du_Congo_(L%C3%A9opoldvil
 END:VEVENT
 BEGIN:VEVENT
 UID:20261228-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:💡 Grand prix du roman de l'Académie française
@@ -1446,25 +1464,26 @@ URL:https://fr.wikipedia.org/wiki/Grand_prix_du_roman_de_l'Acad%C3%A9mie_fr
 END:VEVENT
 BEGIN:VEVENT
 UID:20261229-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-SUMMARY:💡 Afro-Iraniens
-DESCRIPTION:Les Afro-Iraniens\, Iraniens noirs ou Siya sont des Iraniens ay
- ant des origines africaines subsahariennes. Ils constituent entre 10% et 1
- 5% de la population du sud du pays\, et sont principalement localisés dan
- s les provinces du Hormozagan\, du Sistan\, du Baluchistan\, du Bouchehr e
- t du Khouzistan.\n\nhttps://fr.wikipedia.org/wiki/Afro-Iraniens\nThème : 
- Thème 05\n👍 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/
- new?title=vote%7Cup%7CTh%C3%A8me%2005%7C20261229-0%40calendrier-perso\n
- 👎 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=v
- ote%7Cdown%7CTh%C3%A8me%2005%7C20261229-0%40calendrier-perso
+SUMMARY:💡 Afro-Turcs
+DESCRIPTION:Les Afro-Turcs ou Zenci sont des Turcs d'origine subsaharienne\
+ , qui trouvent leur origine dans la traite des esclaves ottomans comme les
+  Afro-Abkhazes. Leur nom provient des Zanj (Bantous).\nLa population afro-
+ turque est estimée entre 5 000 et 20 000 personnes. Les Afro-Turcs se
+  distinguent des immigrés africains en Turquie.\n\nhttps://fr.wikipedia.o
+ rg/wiki/Afro-Turcs\nThème : Thème 05\n👍 https://github.com/cnbpf295f8
+ -dev/calendrier-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2005%7C20261
+ 229-0%40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/calendrie
+ r-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2005%7C20261229-0%40cale
+ ndrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Afro-Iraniens
+URL:https://fr.wikipedia.org/wiki/Afro-Turcs
 END:VEVENT
 BEGIN:VEVENT
 UID:20261229-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:💡 Khadidiatou Sow
@@ -1480,7 +1499,7 @@ URL:https://fr.wikipedia.org/wiki/Khadidiatou_Sow
 END:VEVENT
 BEGIN:VEVENT
 UID:20261230-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:📅 1986 · Caity Lotz
@@ -1495,7 +1514,7 @@ URL:https://fr.wikipedia.org/wiki/Caity_Lotz
 END:VEVENT
 BEGIN:VEVENT
 UID:20261230-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:📅 1896 · José Rizal
@@ -1510,7 +1529,7 @@ URL:https://fr.wikipedia.org/wiki/Jos%C3%A9_Rizal
 END:VEVENT
 BEGIN:VEVENT
 UID:20261230-2@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:💡 2013 au cinéma
@@ -1525,7 +1544,7 @@ URL:https://fr.wikipedia.org/wiki/2013_au_cin%C3%A9ma
 END:VEVENT
 BEGIN:VEVENT
 UID:20261231-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:📅 1225 · Trần Thái Tông
@@ -1541,7 +1560,7 @@ URL:https://fr.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng
 END:VEVENT
 BEGIN:VEVENT
 UID:20261231-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:💡 Emily Young (sculptrice)
@@ -1556,7 +1575,7 @@ URL:https://fr.wikipedia.org/wiki/Emily_Young_(sculptrice)
 END:VEVENT
 BEGIN:VEVENT
 UID:20270102-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:📅 2000 · María de las Mercedes de Borbón y Orleans
@@ -1574,7 +1593,7 @@ URL:https://fr.wikipedia.org/wiki/Mar%C3%ADa_de_las_Mercedes_de_Borb%C3%B3n
 END:VEVENT
 BEGIN:VEVENT
 UID:20270102-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:📅 2001 · Formose Mendy (football\, 2001)
@@ -1589,40 +1608,40 @@ URL:https://fr.wikipedia.org/wiki/Formose_Mendy_(football%2C_2001)
 END:VEVENT
 BEGIN:VEVENT
 UID:20270103-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
-SUMMARY:💡 Bell hooks
-DESCRIPTION:Gloria Jean Watkins\, connue sous son nom de plume bell hooks\,
-  née le 25 septembre 1952 à Hopkinsville (Kentucky) et morte le 15 déce
- mbre 2021 à Berea (Kentucky)\, est une intellectuelle\, universitaire et 
- militante américa…\n\nhttps://fr.wikipedia.org/wiki/Bell_hooks\nThème 
- : Thème 01\n👍 https://github.com/cnbpf295f8-dev/calendrier-perso/issue
- s/new?title=vote%7Cup%7CTh%C3%A8me%2001%7C20270103-0%40calendrier-perso\n
- 👎 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=v
- ote%7Cdown%7CTh%C3%A8me%2001%7C20270103-0%40calendrier-perso
+SUMMARY:💡 Denzel Washington
+DESCRIPTION:Denzel Washington [dɛnzɛl ˈwɑʃɪŋtən]\, né le 28 décem
+ bre 1954 à Mount Vernon\, est un acteur\, réalisateur et producteur de c
+ inéma américain.\n\nhttps://fr.wikipedia.org/wiki/Denzel_Washington\nTh
+ ème : Thème 01\n👍 https://github.com/cnbpf295f8-dev/calendrier-perso/
+ issues/new?title=vote%7Cup%7CTh%C3%A8me%2001%7C20270103-0%40calendrier-per
+ so\n👎 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?tit
+ le=vote%7Cdown%7CTh%C3%A8me%2001%7C20270103-0%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Bell_hooks
+URL:https://fr.wikipedia.org/wiki/Denzel_Washington
 END:VEVENT
 BEGIN:VEVENT
 UID:20270104-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
-SUMMARY:💡 Teranga (Sénégal)
-DESCRIPTION:Le terme « teranga »\, parfois écrit teraanga\, est un xé
- nisme wolof qui peut se traduire par « hospitalité ».\n\nhttps://fr.w
- ikipedia.org/wiki/Teranga_(S%C3%A9n%C3%A9gal)\nThème : Thème 02\n👍 ht
- tps://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cu
- p%7CTh%C3%A8me%2002%7C20270104-0%40calendrier-perso\n👎 https://github.c
- om/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8
- me%2002%7C20270104-0%40calendrier-perso
+SUMMARY:💡 Touba (Sénégal)
+DESCRIPTION:Touba est une ville du Sénégal\, située à 194 km à l'est 
+ de la capitale Dakar dans le département de Mbacké. Elle est le siège d
+ e la confrérie musulmane des mourides.\n\nhttps://fr.wikipedia.org/wiki/T
+ ouba_(S%C3%A9n%C3%A9gal)\nThème : Thème 02\n👍 https://github.com/cnbp
+ f295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2002%7
+ C20270104-0%40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/cal
+ endrier-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2002%7C20270104-0%
+ 40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Teranga_(S%C3%A9n%C3%A9gal)
+URL:https://fr.wikipedia.org/wiki/Touba_(S%C3%A9n%C3%A9gal)
 END:VEVENT
 BEGIN:VEVENT
 UID:20270104-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:📅 2010 · Burj Khalifa
@@ -1638,24 +1657,24 @@ URL:https://fr.wikipedia.org/wiki/Burj_Khalifa
 END:VEVENT
 BEGIN:VEVENT
 UID:20270104-2@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
-SUMMARY:💡 Cuisine médiévale
-DESCRIPTION:La cuisine médiévale regroupe les plats\, les habitudes alime
- ntaires et les méthodes de cuisson des diverses cultures européennes et 
- méditerranéennes\, durant le Moyen Âge\, entre le Ve et le XVe siècle
- .\n\nhttps://fr.wikipedia.org/wiki/Cuisine_m%C3%A9di%C3%A9vale\nThème : T
- hème 15\n👍 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/n
- ew?title=vote%7Cup%7CTh%C3%A8me%2015%7C20270104-2%40calendrier-perso\n👎
-  https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%
- 7Cdown%7CTh%C3%A8me%2015%7C20270104-2%40calendrier-perso
+SUMMARY:💡 Cuisine (pièce)
+DESCRIPTION:La cuisine est une pièce spécifique dans un bâtiment\, spéc
+ ialement équipée pour la préparation des aliments et des plats. On y di
+ spose généralement de l'eau courante et divers appareils électroménage
+ rs.\n\nhttps://fr.wikipedia.org/wiki/Cuisine_(pi%C3%A8ce)\nThème : Thème
+  15\n👍 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?ti
+ tle=vote%7Cup%7CTh%C3%A8me%2015%7C20270104-2%40calendrier-perso\n👎 http
+ s://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cdow
+ n%7CTh%C3%A8me%2015%7C20270104-2%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Cuisine_m%C3%A9di%C3%A9vale
+URL:https://fr.wikipedia.org/wiki/Cuisine_(pi%C3%A8ce)
 END:VEVENT
 BEGIN:VEVENT
 UID:20270105-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:💡 Muses
@@ -1671,7 +1690,7 @@ URL:https://fr.wikipedia.org/wiki/Muses
 END:VEVENT
 BEGIN:VEVENT
 UID:20270106-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:💡 Frédéric Vasseur
@@ -1688,7 +1707,7 @@ URL:https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Vasseur
 END:VEVENT
 BEGIN:VEVENT
 UID:20270106-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:📅 2020 · Libye
@@ -1703,23 +1722,27 @@ URL:https://fr.wikipedia.org/wiki/Libye
 END:VEVENT
 BEGIN:VEVENT
 UID:20270107-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
-SUMMARY:💡 Jason Momoa
-DESCRIPTION:Jason Momoa\, né Joseph Momoa\, le 1er août 1979 à Honolulu\
- , Hawaï (États-Unis) est un acteur\, producteur\, réalisateur et scéna
- riste américain.\n\nhttps://fr.wikipedia.org/wiki/Jason_Momoa\nThème : T
- hème 05\n👍 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/n
- ew?title=vote%7Cup%7CTh%C3%A8me%2005%7C20270107-0%40calendrier-perso\n👎
-  https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%
- 7Cdown%7CTh%C3%A8me%2005%7C20270107-0%40calendrier-perso
+SUMMARY:💡 Appropriation culturelle
+DESCRIPTION:L'appropriation culturelle désigne à l'origine l'utilisation 
+ d'éléments matériels ou immatériels d'une culture par les membres d'un
+ e autre culture\, dont l'acquisition d'artefacts d'autres cultures par des
+  musées occidentaux. Par la suite\, le concept est utilisé par analogie 
+ par la critique littéraire et artistique\, le plus souvent avec une conno
+ tation d'exploitation et de domination.\n\nhttps://fr.wikipedia.org/wiki/A
+ ppropriation_culturelle\nThème : Thème 05\n👍 https://github.com/cnbpf
+ 295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2005%7C
+ 20270107-0%40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/cale
+ ndrier-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2005%7C20270107-0%4
+ 0calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Jason_Momoa
+URL:https://fr.wikipedia.org/wiki/Appropriation_culturelle
 END:VEVENT
 BEGIN:VEVENT
 UID:20270108-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:📅 1745 · Monarchie de Habsbourg
@@ -1735,38 +1758,80 @@ URL:https://fr.wikipedia.org/wiki/Monarchie_de_Habsbourg
 END:VEVENT
 BEGIN:VEVENT
 UID:20270108-1@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-SUMMARY:💡 Allemand
-DESCRIPTION:L'allemand est l'une des langues indo-européennes appartenant 
- à la branche des langues germaniques\, parlée notamment en Allemagne\, e
- n Autriche\, en Suisse\, au Liechtenstein\, au Luxembourg\, en Belgique et
-  dans certaines ré…\n\nhttps://fr.wikipedia.org/wiki/Allemand\nThème :
-  Surprise 11\n👍 https://github.com/cnbpf295f8-dev/calendrier-perso/issu
- es/new?title=vote%7Cup%7CSurprise%2011%7C20270108-1%40calendrier-perso\n
- 👎 https://github.com/cnbpf295f8-dev/calendrier-perso/issues/new?title=v
- ote%7Cdown%7CSurprise%2011%7C20270108-1%40calendrier-perso
+SUMMARY:💡 Lewis Hamilton
+DESCRIPTION:Lewis Hamilton\, né le 7 janvier 1985 à Stevenage (Angleterre
+ )\, est un pilote automobile britannique\, septuple champion du monde de F
+ ormule 1 en 2008\, 2014\, 2015\, 2017\, 2018\, 2019 et 2020. Il est record
+ man du nombre de pole positions\, de podiums\, de courses terminées dans 
+ les points\, de points marqués\, de tours en tête et du nombre de victoi
+ res. Il est le pilote qui a remporté le plus de victoires sur différents
+  circuits. En 2026\, il totalise 106 victoires\, 105 pole positions\, 209 
+ podiums et 70 meilleurs tours.\n\nhttps://fr.wikipedia.org/wiki/Lewis_Hami
+ lton\nThème : Thème 16\n👍 https://github.com/cnbpf295f8-dev/calendrie
+ r-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2016%7C20270108-1%40calend
+ rier-perso\n👎 https://github.com/cnbpf295f8-dev/calendrier-perso/issues
+ /new?title=vote%7Cdown%7CTh%C3%A8me%2016%7C20270108-1%40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/Allemand
+URL:https://fr.wikipedia.org/wiki/Lewis_Hamilton
 END:VEVENT
 BEGIN:VEVENT
 UID:20270109-0@calendrier-perso
-DTSTAMP:20261125T043905Z
+DTSTAMP:20261126T043843Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:💡 Sécurité sociale de l'alimentation
-DESCRIPTION:La Sécurité sociale de l'alimentation (SSA) est une réflexio
- n en cours en France\, en Belgique et en Suisse\, portée par différents 
- acteurs de la société civile\, sur la création de nouveaux droits socia
- ux visant à assurer…\n\nhttps://fr.wikipedia.org/wiki/S%C3%A9curit%C3%A
- 9_sociale_de_l'alimentation\nThème : Surprise 01\n👍 https://github.com
+SUMMARY:💡 Budget de l'État français en 2026
+DESCRIPTION:Le budget de l'État français en 2026 est promulgué le 19 fé
+ vrier 2026. Le financement de la sécurité sociale pour 2026 est promulgu
+ é le 30 décembre 2025.\n\nhttps://fr.wikipedia.org/wiki/Budget_de_l'%C3%
+ 89tat_fran%C3%A7ais_en_2026\nThème : Surprise 01\n👍 https://github.com
  /cnbpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CSurprise%200
  1%7C20270109-0%40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/
  calendrier-perso/issues/new?title=vote%7Cdown%7CSurprise%2001%7C20270109-0
  %40calendrier-perso
 TRANSP:TRANSPARENT
-URL:https://fr.wikipedia.org/wiki/S%C3%A9curit%C3%A9_sociale_de_l'alimentat
- ion
+URL:https://fr.wikipedia.org/wiki/Budget_de_l'%C3%89tat_fran%C3%A7ais_en_20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+UID:20270110-0@calendrier-perso
+DTSTAMP:20261126T043843Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:💡 Thomas Robert Bugeaud
+DESCRIPTION:Thomas Robert Bugeaud\, marquis de La Piconnerie\, duc d'Isly\,
+  né le 15 octobre 1784 à Limoges et mort le 10 juin 1849 à Paris\, est 
+ un militaire français\, maréchal de France.\n\nhttps://fr.wikipedia.org/
+ wiki/Thomas_Robert_Bugeaud\nThème : Thème 02\n👍 https://github.com/cn
+ bpf295f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2002
+ %7C20270110-0%40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/c
+ alendrier-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2002%7C20270110-
+ 0%40calendrier-perso
+TRANSP:TRANSPARENT
+URL:https://fr.wikipedia.org/wiki/Thomas_Robert_Bugeaud
+END:VEVENT
+BEGIN:VEVENT
+UID:20270110-1@calendrier-perso
+DTSTAMP:20261126T043843Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:💡 Littérature lesbienne
+DESCRIPTION:La littérature lesbienne est un sous-genre de la littérature 
+ traitant des thèmes ou écrit d'un point de vue lesbien. Il comprend de l
+ a poésie\, du théâtre\, des romans et romans graphiques abordant des pe
+ rsonnages lesbiens\, et de la non-fiction sur les sujets d'intérêt lesbi
+ ens en général. Les œuvres de fiction qui se situent dans cette catégo
+ rie peuvent être de tout genre\, tels que fiction historique\, science-fi
+ ction\, fantasy\, horreur et romance\, et existent à destination d'un pub
+ lic jeunesse\, adolescent ou adulte.\n\nhttps://fr.wikipedia.org/wiki/Litt
+ %C3%A9rature_lesbienne\nThème : Thème 11\n👍 https://github.com/cnbpf2
+ 95f8-dev/calendrier-perso/issues/new?title=vote%7Cup%7CTh%C3%A8me%2011%7C2
+ 0270110-1%40calendrier-perso\n👎 https://github.com/cnbpf295f8-dev/calen
+ drier-perso/issues/new?title=vote%7Cdown%7CTh%C3%A8me%2011%7C20270110-1%40
+ calendrier-perso
+TRANSP:TRANSPARENT
+URL:https://fr.wikipedia.org/wiki/Litt%C3%A9rature_lesbienne
 END:VEVENT
 END:VCALENDAR
